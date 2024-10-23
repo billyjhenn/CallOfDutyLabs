@@ -37,8 +37,8 @@
 }
 
 #navbar__logo img {
-    max-height: 90px; /* Set to your preferred maximum height */
-    width: auto; /* Keep the aspect ratio */
+    max-height: 70px; /* Set to your preferred maximum height */
+    width: 175px; /* Keep the aspect ratio */
 }
 
 .fa-gem {
